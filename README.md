@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bhargav Prasad
+# Munugala Bhargav Prasad
 ### Data Analyst
 
 [LinkedIn](https://www.linkedin.com/in/bhargav-prasad-607025294) &nbsp;|&nbsp; [Portfolio](https://bhargavprasad66.github.io) &nbsp;|&nbsp; Hyderabad / Bangalore, India
